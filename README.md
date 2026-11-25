@@ -1,4 +1,4 @@
-# AI Junction - Website Deployment
+# AI Junction - Website Deployment Vercel
 
 Eight purpose-built HTML pages with distinct layouts and page-specific content. No ebook page.
 
