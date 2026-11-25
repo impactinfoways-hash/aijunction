@@ -1,4 +1,4 @@
-# AI Junction — redesigned website
+# AI Junction - Website Deployment
 
 Eight purpose-built HTML pages with distinct layouts and page-specific content. No ebook page.
 
